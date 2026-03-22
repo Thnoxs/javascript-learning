@@ -1,7 +1,7 @@
 /**
  * LAB 01: JavaScript Foundations (Variables, Types, & Operators)
  * Pilot: Ankit (Thnoxs)
- * Status: Module 01 Complete
+ * Status: Module 01 Complete                    
  */
 
 // --- SECTION 1: VARIABLE MECHANICS ---
